@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "nodemon": "^1.18.5",
+    "validator": "10.8",
+    "yargs": "^17.3.1"
+  }
+}
