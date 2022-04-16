@@ -1,0 +1,2 @@
+to start mongodb -- C:/"Program Files"/MongoDB/Server/5.0/bin/mongod.exe --dbpath D:/Annapurna/MongoDB-Data
+to start node -- node mongoDB.js
